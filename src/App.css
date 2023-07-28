@@ -69,10 +69,10 @@ body::-webkit-scrollbar {
   
   .linktree__link {
     display: flex;
-    flex-direction: row;
+    /* flex-direction: row; */
     /* flex-wrap: wrap; */
+    justify-content: center;
     align-items: center;
-    justify-items: center;
     padding: 1%;
     width: 23rem;
     height:9vh;
