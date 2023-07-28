@@ -74,7 +74,7 @@ body::-webkit-scrollbar {
     align-items: center;
     padding: 1%;
     width: 23rem;
-    height:10vh;
+    height:12vh;
     background: linear-gradient(to bottom, #579c46, #3b64a3, #72297b);
     border-radius: 10px;
     text-decoration: none;
