@@ -70,11 +70,11 @@ body::-webkit-scrollbar {
   .linktree__link {
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     align-items: center;
     padding: 1%;
     width: 23rem;
-    height:12vh;
+    height:10vh;
     background: linear-gradient(to bottom, #579c46, #3b64a3, #72297b);
     border-radius: 10px;
     text-decoration: none;
